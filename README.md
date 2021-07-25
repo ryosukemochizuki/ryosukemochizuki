@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**ryosukemochizuki/ryosukemochizuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## myself
 
-Here are some ideas to get you started:
+I"m ryosuke mochizuki, and now working as an intern to help IT start-up company. 💻
+(I"m assigned a project with using frontend...Next.js, backend...Rails) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 21years old
+- third year of university
+- backpacker traveling(🇸🇬🇹🇭🇮🇳🇻🇳🇲🇾🇰🇭🇵🇭), watching youtube, reading
+
+## Studying...
+Next.js, Rails, readable-code
+
+
+## skillhack
+
+# language
+HTML, CSS, Javascript, Vue.js, Next.js(React.js), Ruby on Rails(Ruby)
+
+# BaaS
+firebase(auth, firestore, func)
+
+# administration
+git, github
