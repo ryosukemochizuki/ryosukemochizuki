@@ -3,7 +3,6 @@
 ## myself
 
 I"m ryosuke mochizuki, and now working as an intern to help IT start-up company. 💻
-
 (I"m assigned a project with using frontend...Next.js, backend...Rails) 
 
 - 21years old
