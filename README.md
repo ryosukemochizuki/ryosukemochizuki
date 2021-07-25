@@ -1,8 +1,5 @@
-### Hi there 👋
-
 ## myself
-I"m now working as an intern to help IT start-up company.🎉
-
+ Hi there 👋,　I"m now working as an intern to help IT start-up company.🎉<br>
 (I"m assigned a project with using frontend...Next.js, backend...Rails) 
 
 - 21years old
