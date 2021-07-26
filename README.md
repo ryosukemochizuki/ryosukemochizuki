@@ -8,7 +8,7 @@
 - backpacker traveling(🇸🇬🇹🇭🇮🇳🇻🇳🇲🇾🇰🇭🇵🇭), watching youtube, reading books
 
 ## Studying...📝
-Next.js, Rails, readable-code
+Frondend, Web API
 
 ## skillhack
 
