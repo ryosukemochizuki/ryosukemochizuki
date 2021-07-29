@@ -8,7 +8,7 @@
 - backpacker traveling(🇸🇬🇹🇭🇮🇳🇻🇳🇲🇾🇰🇭🇵🇭), watching youtube, reading books
 
 ## Studying...📝
-Frondend, Web API
+Frondend development, building Web API
 
 ## skillhack
 
