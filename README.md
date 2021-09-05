@@ -8,7 +8,7 @@
 - backpacker traveling(🇸🇬🇹🇭🇮🇳🇻🇳🇲🇾🇰🇭🇵🇭), watching youtube, reading books, studying
 
 ## Studying...📝
-python, building CI/CD, infrastructure
+python, building CI/CD, infrastructure, logical-thinking
 
 ## skillhack
 
