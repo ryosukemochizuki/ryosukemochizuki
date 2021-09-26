@@ -13,5 +13,4 @@ https://zenn.dev/mochinozenn
 
 ## skillhack
 
-### language
 Javascript, Next.js(React.js), Ruby on Rails(Ruby), Vue.js, HTML, CSS
