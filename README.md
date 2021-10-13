@@ -13,4 +13,4 @@ https://zenn.dev/mochinozenn
 
 ## skillhack
 
-Javascript, Next.js(React.js), Ruby on Rails(Ruby), Vue.js, HTML, CSS
+Javascript, Next.js, Vue.js, Ruby on Rails, Git, Github, HTML, CSS
