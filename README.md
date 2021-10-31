@@ -4,7 +4,7 @@
 
 - 22years old
 - third year of university
-- backpacker traveling(🇸🇬🇹🇭🇮🇳🇻🇳🇲🇾🇰🇭🇵🇭), watching youtube, reading books, studying
+- backpacker traveling(🇸🇬🇹🇭🇮🇳🇻🇳🇲🇾🇰🇭🇵🇭), watching youtube and anime, reading books, studying
 
 ## output
 
@@ -13,4 +13,4 @@ https://zenn.dev/mochinozenn
 
 ## skillhack
 
-Javascript, Next.js, Vue.js, Ruby on Rails, Git, Github, HTML, CSS
+Javascript, Next.js, Vue.js, Ruby, Ruby on Rails, Git, Github, HTML, CSS
