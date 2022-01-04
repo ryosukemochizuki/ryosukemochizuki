@@ -13,4 +13,15 @@ https://zenn.dev/mochinozenn
 
 ## skillhack
 
-Javascript, Next.js, Vue.js, Ruby, Ruby on Rails, Git, Github, HTML, CSS
+### front-end
+HTML, CSS, JS(Next.js, Vue.js, React Native)
+
+### back-end
+Ruby(Ruby on Rails)
+
+### infrastructure
+
+AWS(EC2, RDS), firebase(authentication, firestore, functions)
+
+### tools
+Git, Github, Apple Store Connect(build~release)
