@@ -1,9 +1,9 @@
 ## myself
  Hi there 👋<br />
- I"m now working as an intern to help IT start-up company.🎉<br />
+ I"m now working as an intern to help HRtech start-up company.🎉<br />
 
 - 22years old
-- third year of university
+- third year of university(leave of absence)
 - backpacker traveling(🇸🇬🇹🇭🇮🇳🇻🇳🇲🇾🇰🇭🇵🇭), watching youtube and anime, reading books, studying
 
 ## output
@@ -14,7 +14,7 @@ https://zenn.dev/mochinozenn
 ## skillhack
 
 ### front-end
-HTML, CSS, JS(Next.js, Vue.js, React Native)
+HTML, CSS, JS(Next.js, React Native , Vue.js)
 
 ### back-end
 Ruby(Ruby on Rails)
