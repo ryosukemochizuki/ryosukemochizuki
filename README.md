@@ -3,8 +3,8 @@
  I"m now working as an intern to help HRtech start-up company.🎉<br />
 
 - 22years old
-- third year of university (leave of absence)
-- backpacker traveling(🇸🇬🇹🇭🇮🇳🇻🇳🇲🇾🇰🇭🇵🇭), studying
+- fourth year of university (leave of absence)
+- backpacker traveling(🇸🇬🇹🇭🇮🇳🇻🇳🇲🇾🇰🇭🇵🇭), studying, watching movie
 
 ## studying...
 
