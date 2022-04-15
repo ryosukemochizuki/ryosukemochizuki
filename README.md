@@ -3,12 +3,11 @@
  I"m now working as an intern to help HRtech start-up company.🎉<br />
 
 - 22years old
-- fourth year of university (leave of absence)
-- backpacker traveling(🇸🇬🇹🇭🇮🇳🇻🇳🇲🇾🇰🇭🇵🇭), studying, watching movie
+- backpacker traveling(🇸🇬🇹🇭🇮🇳🇻🇳🇲🇾🇰🇭🇵🇭), studying, watching movie, walking
 
 ## studying...
 
-Testing code, CI, CD
+Discribing test-code,　constructing CI-CD　environment, infrastructure...
 
 ## output
 
@@ -18,14 +17,14 @@ https://zenn.dev/mochinozenn
 ## skillhack
 
 ### front-end
-HTML, CSS, JS(Next.js, React Native , Vue.js)
+HTML, CSS, JS(Next.js, React Native(Expo), Vue.js)
 
 ### back-end
-Ruby(Ruby on Rails)
+Ruby(Ruby on Rails), (SQL)
 
 ### infrastructure
 
-AWS(EC2, RDS), firebase(authentication, firestore, functions)
+GitHub Actions(CI), AWS(EC2, ECS, RDS, CloudWatch, EventBridge, SNS, Chatbot), firebase(authentication, Firestore), GCP(Big Query connect to Rails)
 
 ### tools
-Git, Github, Apple Store Connect(build~release)
+Git, Github, Slack, Rspec(Rails-test), Apple Store Connect・Google Play(Expo build~release)
