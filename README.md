@@ -2,7 +2,7 @@
  Hi there 👋<br />
  I"m now working as an intern to help HRtech start-up company.🎉<br />
 
-- 22years old
+- 22years old (university student)
 - backpacker traveling(🇸🇬🇹🇭🇮🇳🇻🇳🇲🇾🇰🇭🇵🇭), studying, watching movie, walking
 
 ## studying...
