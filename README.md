@@ -5,15 +5,6 @@
 - 22years old (university student)
 - backpacker traveling(🇸🇬🇹🇭🇮🇳🇻🇳🇲🇾🇰🇭🇵🇭), studying, watching movie, walking
 
-## studying...
-
-Discribing test-code,　constructing CI-CD　environment, infrastructure...
-
-## output
-
-### zenn
-https://zenn.dev/mochinozenn
-
 ## skillhack
 
 ### front-end
@@ -28,3 +19,8 @@ GitHub Actions(CI), AWS(EC2, ECS, RDS, CloudWatch, EventBridge, SNS, Chatbot), f
 
 ### tools
 Git, Github, Slack, Rspec(Rails-test), Apple Store Connect・Google Play(Expo build~release)
+
+## output
+
+### zenn
+https://zenn.dev/mochinozenn
