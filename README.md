@@ -7,7 +7,7 @@
 
 ## skillhack
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryosukemochizuki&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryosukemochizuki)](https://github.com/anuraghazra/github-readme-stats)
 
 ### front-end
 HTML, CSS, JS(Next.js, React Native(Expo), Vue.js)
