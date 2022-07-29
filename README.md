@@ -7,7 +7,7 @@
 
 ## skillhack
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryosukemochizuki&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### front-end
 HTML, CSS, JS(Next.js, React Native(Expo), Vue.js)
