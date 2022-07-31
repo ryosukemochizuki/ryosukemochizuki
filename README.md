@@ -3,7 +3,7 @@
  I"m now working as an intern to help HRtech start-up company.🎉<br />
 
 - 22years old (university student)
-- backpacker traveling(🇸🇬🇹🇭🇮🇳🇻🇳🇲🇾🇰🇭🇵🇭), studying, watching movie, walking
+- backpacker traveling(🇸🇬🇹🇭🇮🇳🇻🇳🇲🇾🇰🇭🇵🇭), studying, watching movie, reading Manga
 
 ## skillhack
 
