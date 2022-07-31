@@ -12,7 +12,8 @@
 ※　this includes my own repositories only. (exclude team-organizations)
 
 ### front-end
-[![HTML](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg)]
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+
 HTML, CSS, JS(Next.js, React Native(Expo), Vue.js), TypeScript(React Native(Expo))
 
 ### back-end
