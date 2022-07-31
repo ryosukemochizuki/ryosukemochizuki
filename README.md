@@ -7,7 +7,6 @@
 
 ## skillhack
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ryosukemochizuki&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryosukemochizuki&langs_count=10&card_width=1024&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ※　this includes my own repositories only. (exclude team-organizations)
