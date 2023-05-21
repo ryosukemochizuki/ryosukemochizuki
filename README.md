@@ -3,7 +3,7 @@
  I"m now working as a web engineer👨‍💻<br />
 
 - 23 years old
-- traveling with backpack style🎒, trekking⛰, watching movie and anime📽, reading Manga📚
+- traveling with backpack style🎒, sauna🧖‍♂️, trekking⛰, watching movie and anime📽, reading Manga📚
 
 ## output
 
